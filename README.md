@@ -18,17 +18,17 @@ A real-time age and gender detection system built using OpenCV DNN with Caffe pr
 
 **Project Structure** <br>
 Age-Gender-Detection/ <br>
-│── main.py                      # Entry point <br>
-│── detect_classify.py           # Detection and classification logic <br>
-│── models/                      # Caffe pre-trained models <br>
+│── main.py                  &emsp; &emsp; &emsp; # Entry point <br>
+│── detect_classify.py       &emsp; &emsp; &emsp; # Detection and classification logic <br>
+│── models/                  &emsp; &emsp; &emsp; # Caffe pre-trained models <br>
 │   ├── age_deploy.prototxt <br>
 │   ├── age_net.caffemodel <br>
 │   ├── gender_deploy.prototxt <br>
 │   ├── gender_net.caffemodel <br>
 │   ├── opencv_face_detector.pbtxt <br>
 │   ├── opencv_face_detector_uint8.pb <br>
-│── requirements.txt             # Required Python libraries <br>
-│── README.md                    # Documentation
+│── requirements.txt         &emsp; &emsp; &emsp; # Required Python libraries <br>
+│── README.md                &emsp; &emsp; &emsp; # Documentation
 
 **Future Work** <br>
 •	**Custom Model Training**: Train the age and gender models on a larger, more diverse dataset to improve accuracy and adapt to different ethnicities, lighting conditions, and facial features. <br>
