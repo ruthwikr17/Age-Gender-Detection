@@ -1,24 +1,19 @@
-**Age and Gender Detection**
-
-
+**Age and Gender Detection** <br><br>
 **Description** <br>
-A real-time age and gender detection system built using OpenCV DNN with Caffe pre-trained models. The project includes a Tkinter GUI for easy interaction, allowing users to either use the webcam or upload an image for prediction. 
-
+A real-time age and gender detection system built using OpenCV DNN with Caffe pre-trained models. The project includes a Tkinter GUI for easy interaction, allowing users to either use the webcam or upload an image for prediction. <br><br>
 
 **Features** <br>
 •	Face detection using OpenCV DNN. <br>
 •	Age & gender prediction with Caffe pre-trained models. <br>
 •	Tkinter-based GUI for user-friendly interaction. <br>
-•	Support for image upload or live webcam feed. 
-
+•	Support for image upload or live webcam feed. <br><br>
 
 **Tech Stack** <br>
 •	Python 3 <br>
 •	OpenCV (DNN module) <br>
 •	Caffe models (age & gender) <br>
 •	NumPy <br>
-•	Tkinter (GUI) 
-
+•	Tkinter (GUI) <br><br>
 
 **Project Structure** <br>
 Age-Gender-Detection/ <br>
@@ -32,7 +27,7 @@ Age-Gender-Detection/ <br>
 │   ├── opencv_face_detector.pbtxt <br>
 │   ├── opencv_face_detector_uint8.pb <br>
 │── requirements.txt         &emsp; &emsp; &emsp; # Required Python libraries <br>
-│── README.md                &emsp; &emsp; &emsp; # Documentation 
+│── README.md                &emsp; &emsp; &emsp; # Documentation <br><br>
 
 
 **Future Work** <br>
